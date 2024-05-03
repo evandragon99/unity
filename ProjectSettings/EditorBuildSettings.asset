@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EnigmaOG.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/tabHome.unity
+    guid: ec239ce2b603f4e4c819371639fb5a0e
+  - enabled: 1
+    path: Assets/Scenes/tabAnimations.unity
+    guid: 4f175dfbbe8cc654696fffdbb5ae452e
+  - enabled: 1
+    path: Assets/Scenes/tabQuizzes.unity
+    guid: 97410d97ca5176b4a9dca9b0b211c075
+  - enabled: 1
+    path: Assets/Scenes/loginMenu.unity
+    guid: 4b9d6202652a6cc4892169e1f7f55bb4
+  - enabled: 1
+    path: Assets/Scenes/exampleAnimation.unity
+    guid: fd2c4813ba09ca749b9bcdfaf7bf74e6
+  - enabled: 1
+    path: Assets/Scenes/Enigma.unity
+    guid: 8af1caad8e743a94887dcb1c8a7917f1
+  - enabled: 1
+    path: Assets/Scenes/animationTemplate.unity
+    guid: a536ef73f3482a34e8e94a26f3897c95
+  - enabled: 1
+    path: Assets/Scenes/cbc.unity
+    guid: 34de105d988c9af438310d640face96e
+  - enabled: 1
+    path: Assets/Scenes/ebc.unity
+    guid: 1edfbd2d2f7b964439d4171d13bec96e
+  m_configObjects: {}
